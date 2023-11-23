@@ -9,12 +9,15 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2">
-        <li>Node.js</li>
-        <li>Express</li>
-        <li>PostgreSQL</li>
-        <li>Sequelize</li>
-        <li>JavaScript</li>
-        <li>React</li>
+                <li>Node.js</li>
+                <li>Express</li>
+                <li>MongoDB</li>
+                <li>React</li>
+                <li>Java</li>
+                <li>JavaScript</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Git</li>
       </ul>
     ),
   },
@@ -23,8 +26,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Fullstack Academy of Code</li>
-        <li>University of California, Santa Cruz</li>
+       <li>BS Computer Science, Siena College, (Loudonville, NY)</li>
       </ul>
     ),
   },
@@ -33,8 +35,9 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>AWS Cloud Practitioner</li>
-        <li>Google Professional Cloud Developer</li>
+       <li>Full Stack Development Instructor, GoIT</li>
+       <li>UI/UX Design Intern, Tilleli</li>
+       <li>Front-end Developer, FLUSH</li>
       </ul>
     ),
   },
