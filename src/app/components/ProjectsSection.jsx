@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "Authentication Template",
-    description: "Project 1 description",
+    description: "Project utilizes: MERN Stack, JWT Authentication, Bcrypt, React Router, Full stack, CRUD implementation",
     image: "/images/projects/authenticate.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/ZohaibA99/auth-template",
@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "Responsive Playstation Store Clone",
-    description: "Project 2 description",
+    description: "Project Utilizes: HTML/CSS/SASS/Responsive Web Design",
     image: "/images/projects/playstation.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/ZohaibA99/ResponsivePlayStation",
