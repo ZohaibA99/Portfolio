@@ -7,6 +7,15 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
+    title: "Dropbox Clone",
+    description: "Dropbox clone made using: Nextjs, Clerk Authentication, Firebase firestore/database, Responsive, Dark/Light Theme",
+    image: "/images/projects/drop-box.png",
+    tag: ["All", "Web"],
+    gitUrl: "",
+    previewUrl: "https://dropbox-clone-66pv3y12u-zohaiba99.vercel.app/",
+  },
+  {
+    id: 2,
     title: "Authentication Template",
     description: "Project utilizes: MERN Stack, JWT Authentication, Bcrypt, React Router, Full stack, CRUD implementation",
     image: "/images/projects/authenticate.png",
@@ -15,7 +24,7 @@ const projectsData = [
     previewUrl: "https://mern-auth-tmkd.onrender.com/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Responsive Playstation Store Clone",
     description: "Project Utilizes: HTML/CSS/SASS/Responsive Web Design",
     image: "/images/projects/playstation.png",
