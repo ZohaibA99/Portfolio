@@ -25,6 +25,15 @@ const projectsData = [
   },
   {
     id: 3,
+    title: "Anime Vault",
+    description: "NextJS, Framer Motion, Infinite Scrolling with animations",
+    image: "/images/projects/anime-vault.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/ZohaibA99/anime_vault",
+    previewUrl: "https://anime-vault-9qd9zrpyu-zohaiba99.vercel.app/",
+  },
+  {
+    id: 4,
     title: "Responsive Playstation Store Clone",
     description: "Project Utilizes: HTML/CSS/SASS/Responsive Web Design",
     image: "/images/projects/playstation.png",
